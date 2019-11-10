@@ -1,0 +1,42 @@
+.master-vd {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 50px 0;
+}
+
+.card-vd.mdl-card {
+  width: 800px;
+}
+.card-vd > .mdl-card__menu {
+  color: #fff;
+}
+
+.header-vd .by-dv {
+  font-size: 100px;
+  vertical-align: bottom;
+  line-height: 100px;
+  padding-left: 10px;
+}
+
+.button-vd {
+  display: flex;
+}
+.next-vd {
+  margin-left: auto;
+
+}
+
+.next-vd {
+  text-align: center;
+}
+.googleplay-button-vd img {
+  height: 60px;
+}
+.error {
+  color: #f15249;
+  text-align: left;
+}
+.successInvitation {
+  text-align: left;
+}
